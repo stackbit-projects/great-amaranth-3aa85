@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Унц унц
 white_header: true
 sections:
   - type: hero_section
