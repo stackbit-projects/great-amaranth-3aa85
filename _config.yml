@@ -19,7 +19,7 @@ main_menu:
   - title: Магазин
     url: /store
     style: link
-  - title: About
+  - title: О нас
     url: /about
     style: link
   - title: FAQ
