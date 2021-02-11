@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Унц унц
+title: Авто Акустика
 white_header: true
 sections:
   - type: hero_section
