@@ -10,7 +10,7 @@ sections:
     content: |
       # Звук Звук ЗВУК ЗВУК звук звук
     actions:
-      - title: See all items
+      - title: Хочу
         url: /store
         arrow: true
         style: primary
