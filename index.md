@@ -7,12 +7,8 @@ sections:
     section_id: hero_section
     background_image: images/80c7164e114d7050dcd86b1d56e0c359.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Звук Звук ЗВУК ЗВУК звук звук
-
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
     actions:
       - title: See all items
         url: /store
