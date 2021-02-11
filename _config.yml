@@ -22,7 +22,7 @@ main_menu:
   - title: О нас
     url: /about
     style: link
-  - title: FAQ
+  - title: ФАК
     url: /faq
     style: link
 sass:
